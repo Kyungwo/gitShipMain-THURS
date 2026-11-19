@@ -22,7 +22,7 @@ float speed = 0;
 float drift;
 
 //colours for drawing the spaceship
-color white = color(255);
+color white = color(100);
 color grey = color(100);
 color black = color(0);
 color holo = color(0, 255, 255);
